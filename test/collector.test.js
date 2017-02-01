@@ -2,7 +2,7 @@
  * Created by Akiva on 2/1/17.
  */
 var expect = require('chai').expect;
-var Collector= require('../lib/collector').Collector;
+var Collector= require('../src/collector').Collector;
 var getNumEmployees=require('./util').getNumberOfEmployees; //function
 var getNumManagers=require('./util').getNumberOfManagers; //function
 var checkAllUniqueElements = require('./util').checkAllUniqueElements; //function

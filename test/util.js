@@ -1,7 +1,7 @@
 /**
  * Created by Akiva on 2/1/17.
  */
-var JSONObject=require('../lib/iqp_exam (2).json');
+var JSONObject=require('../src/iqp_exam (2).json');
 
 //gets number of employees in JSON file
 function getNumberOfEmployees(){
