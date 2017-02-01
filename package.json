@@ -2,13 +2,13 @@
   "name": "collector.js",
   "version": "1.0.0",
   "description": "",
-  "repository" : {
-    "type" : "git",
-     "url" : "https://github.com/afutter/iqp_interview.git"
-  },
   "main": "collector.js",
   "author": "Akiva Futter",
   "license": "ISC",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/afutter/iqp_interview.git"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
